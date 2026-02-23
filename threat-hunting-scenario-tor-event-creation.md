@@ -75,7 +75,7 @@ DeviceFileEvents
 ---
 
 ## Created By:
-- **Author Name**: Josh Madakor
+- **Author Name**: Shane Baker-Oropeza
 - **Author Contact**: https://www.linkedin.com/in/shane-baker-oropeza/
 - **Date**: February 22, 2026
 
