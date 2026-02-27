@@ -39,7 +39,8 @@ I Searched the DeviceFileEvents table for ANY file that had the string “tor”
 | order by Timestamp desc
 | project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA256, Account=InitiatingProcessAccountName
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/71402e84-8767-44f8-908c-1805be31122d">
+<img width="1154" height="334" alt="image" src="https://github.com/user-attachments/assets/5fd5829a-3ba8-479a-a094-5e43a59485bd" />
+
 
 ---
 
