@@ -96,7 +96,7 @@ DeviceNetworkEvents
 | order by Timestamp desc
 
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/87a02b5b-7d12-4f53-9255-f5e750d0e3cb">
+<img width="1427" height="375" alt="image" src="https://github.com/user-attachments/assets/bdf3d81c-3f35-47d2-8045-e40d209f490e" />
 
 ---
 
