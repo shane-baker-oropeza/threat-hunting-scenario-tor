@@ -77,7 +77,7 @@ DeviceProcessEvents
 | project Timestamp, DeviceName, ActionType, FileName, FolderPath, SHA256, ProcessCommandLine
 
 ```
-<img width="1212" alt="image" src="https://github.com/user-attachments/assets/b13707ae-8c2d-4081-a381-2b521d3a0d8f">
+<img width="1258" height="370" alt="image" src="https://github.com/user-attachments/assets/d24ae18c-da51-4790-91aa-f0def2e1e11e" />
 
 ---
 
